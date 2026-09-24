@@ -1,0 +1,10 @@
+{
+  "description": "Streamline project readiness by tracking tasks and milestones in one place, helping teams stay organized and meet deadlines efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
